@@ -1,6 +1,6 @@
 # mirth-connect-docker
 
-Mirth-Connect Docker Stack (Mirth-Connect container + Mysql container + PHPMyAdmin container)
+Mirth-Connect Docker Stack (Mirth-Connect container + Mysql container)
 
 ## Prerequirements
 

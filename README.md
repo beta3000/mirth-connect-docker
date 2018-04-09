@@ -19,12 +19,6 @@ Mirth-Connect Docker Stack (Mirth-Connect container + Mysql container)
 
   > \> docker-compose down
 
-## Connect to PHPMyAdmin
-
-- url: [http://localhost:8181]()
-- user: *root*
-- password: *password*
-
 ## Connect to MySQL
 
 Use your preferred MySQL client connected to *localhost* port *3306*
